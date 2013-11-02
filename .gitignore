@@ -11,3 +11,10 @@
 *.lai
 *.la
 *.a
+
+*.swp
+*.zip
+*.tgz
+
+# use glob syntax
+syntax: glob
