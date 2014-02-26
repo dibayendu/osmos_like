@@ -41,12 +41,12 @@ Feature implemented/Not implemented/bug:
 
 COMMANDS:
 ----
-1. Compile  : make
-2. Run      : "./assignment_3_application 1"    # 1 = square; 2 = circle
-            : make square       # starts a square arena
-            : make circle       # starts a circular arena
-3. Clean    : make clean
-4. Archive  : make archive
+1. Compile        : make
+2. Run            : "./assignment_3_application 1"    # 1 = square; 2 = circle
+3. Square Arena   : make square       # starts a square arena
+4. Circular Arena : make circle       # starts a circular arena
+3. Clean          : make clean
+4. Archive        : make archive
 
 
 FUNCTIONALITY:
